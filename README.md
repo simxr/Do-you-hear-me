@@ -7,7 +7,7 @@ Implementation of a portion of [Speech Commands dataset (Warden, 2018)](https://
 
 ## Requisites
 __1. TensorFlow__  
-__2. Numpy__
-__3. Pyaudio__
+__2. Numpy__ <br>
+__3. Pyaudio__ <br>
 __4. Turtle__
 
